@@ -1,6 +1,6 @@
 # React Hook Form Example
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./screenshot.png)
 
 This project is a simple React application demonstrating the use of `react-hook-form` for form handling. It includes basic form validation and a developer tool for debugging.
 
